@@ -1,4 +1,3 @@
-# gin-gwt
 gin框架中间件编程实现jwt身份认证
 
 1. RESTful API与API版本控制
